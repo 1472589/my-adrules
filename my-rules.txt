@@ -8,7 +8,7 @@
 ||sigmob.cn^
 ||wskwai.com^
 ||baidustatic.com^
-||360buyimg.com^
+||img*.360buyimg.com^
 ||iqiyipic.com^
 ||img-x.jd.com^
 ||meituan.net^
