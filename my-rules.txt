@@ -40,3 +40,4 @@
 ||c.etoolads.cn^
 ||cpc-service-square.iggrowth.cn^
 ||hmma.baidu.com^
+||qiniu-ad.super.cn^
