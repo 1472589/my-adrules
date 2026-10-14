@@ -48,3 +48,9 @@
 ||66mobi.com^
 ||qzs.gdtimg.com^
 ||innoads.cn^
+||dsp-x.jd.com^
+||hzzfcm.com^
+||*.ad.xiaomi.com^
+||yfanads.com^
+||*.litemob.vip^
+
