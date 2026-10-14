@@ -41,3 +41,9 @@
 ||cpc-service-square.iggrowth.cn^
 ||hmma.baidu.com^
 ||qiniu-ad.super.cn^
+!----------慧生活798----------
+||bd-cdn.halomobi.com^
+||qzs.gdtimg.com^
+||ah.gxycwy.cn^
+||66mobi.com^
+||qzs.gdtimg.com^
