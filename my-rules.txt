@@ -11,7 +11,7 @@
 ||img*.360buyimg.com^
 ||iqiyipic.com^
 ||img-x.jd.com^
-||meituan.net^
+@@||meituan.net^
 ||uczzd.cn^
 ||ad.gameley.com^
 ||adn-plus.com.cn^
