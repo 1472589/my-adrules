@@ -55,3 +55,4 @@
 ||*.litemob.vip^
 ||aqyad.com^
 ||adwangmai.com^
+||fancyapi.com^
