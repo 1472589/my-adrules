@@ -56,3 +56,6 @@
 ||aqyad.com^
 ||adwangmai.com^
 ||fancyapi.com^
+!----------大学搜题酱----------
+||adx.zuoyebang.com^
+||p0.meituan.net^
