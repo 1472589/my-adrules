@@ -57,7 +57,6 @@
 ||fancyapi.com^
 !----------大学搜题酱----------
 ||adx.zuoyebang.com^
-||p0.meituan.net^
 !----------123云盘----------
 ||ndcjl.com^
 ||anythinktech.com^
