@@ -41,6 +41,7 @@
 ||hmma.baidu.com^
 ||qiniu-ad.super.cn^
 ||fenxi.com^
+||mdvdns.com^
 !----------慧生活798----------
 ||bd-cdn.halomobi.com^
 ||qzs.gdtimg.com^
