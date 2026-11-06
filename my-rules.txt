@@ -40,6 +40,7 @@
 ||cpc-service-square.iggrowth.cn^
 ||hmma.baidu.com^
 ||qiniu-ad.super.cn^
+||fenxi.com^
 !----------慧生活798----------
 ||bd-cdn.halomobi.com^
 ||qzs.gdtimg.com^
